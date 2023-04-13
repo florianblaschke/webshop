@@ -1,3 +1,13 @@
 .black {
   background-color: black;
 }
+
+div {
+  width: 200px;
+  height: 200px;
+  background-color: aqua;
+}
+
+.peekabo {
+  background-color: white;
+}
